@@ -6,6 +6,6 @@ The api key comes from a text input and is locally stored for further use.
 # Build
 
 clone this  
-run `yarn install && yarn build`
+run `yarn build`
 open `index.html` on a browser.
 
